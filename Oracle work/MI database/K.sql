@@ -1,0 +1,4 @@
+SELECT * FROM STORE;
+UPDATE STORE SET City = 'NYC' 
+WHERE City = 'New York City';
+SELECT * FROM STORE;

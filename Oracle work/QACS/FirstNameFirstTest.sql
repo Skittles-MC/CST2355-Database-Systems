@@ -1,0 +1,1 @@
+SELECT LastNameFirst(FirstName, LastName) AS CustomerFullName  from CUSTOMER; 
